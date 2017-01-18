@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1A18E703-838D-1BC7-664C-F1B45F9BF777}") = "SandwichSimulatorHouse", "Assembly-CSharp.csproj", "{BE872B9F-1F85-8CE2-FD39-2BC0B07E5945}"
+EndProject
+Project("{1A18E703-838D-1BC7-664C-F1B45F9BF777}") = "SandwichSimulatorHouse", "Assembly-CSharp-Editor.csproj", "{0D6EF482-43BC-E328-DACB-EE2D1D0FF9B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE872B9F-1F85-8CE2-FD39-2BC0B07E5945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE872B9F-1F85-8CE2-FD39-2BC0B07E5945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE872B9F-1F85-8CE2-FD39-2BC0B07E5945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE872B9F-1F85-8CE2-FD39-2BC0B07E5945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D6EF482-43BC-E328-DACB-EE2D1D0FF9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6EF482-43BC-E328-DACB-EE2D1D0FF9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6EF482-43BC-E328-DACB-EE2D1D0FF9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6EF482-43BC-E328-DACB-EE2D1D0FF9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
